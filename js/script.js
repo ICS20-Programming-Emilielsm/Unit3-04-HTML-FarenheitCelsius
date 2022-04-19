@@ -9,7 +9,6 @@ function calcCelsius() {
   
   
   // calculate the volume
-  //let celsius = float(5)/float(9) * (farenheit - 32)
   let celsius = 5 / 9 * (farenheit - 32)
   
   // display the results
